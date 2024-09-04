@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Workable<br>👯 I’m looking to collaborate on AI Automations<br>🌱 I’m currently learning everything AI<br>💬 Ask me about the gym ;)<br>⚡ Fun fact: My first program was an automation bot I built to join classes in school because I was too bored to wake up<br>                      early every day (I was way ahead of my class already)
+🔭 I’m currently working in Workable https://www.workable.com/ <br>👯 I’m looking to collaborate on AI Automations<br>🌱 I’m currently learning everything AI<br>💬 Ask me about the gym ;)<br>⚡ Fun fact: My first program was an automation bot I built to join classes in school because I was too bored to wake up<br>                      early every day (I was way ahead of my class already)
 
 
 ## 🌐 Socials:
